@@ -1,0 +1,4 @@
+# chatbot dependencies
+streamlit
+groq
+python-dotenv
